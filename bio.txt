@@ -1,4 +1,4 @@
 Nombre: Alex Quiroga Sueiras
 Edad: 24
-
+Sede: Roc Boronat
 Trabajo en Integración y Despliegue en la seccion de transportes en Indra
